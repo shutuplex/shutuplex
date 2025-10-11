@@ -67,7 +67,7 @@ I'm a passionate backend developer with expertise in building high-performance A
 ## 💼 What I Do
 
 ```javascript
-const sarvesh = {
+let Lex = {
     code: ["JavaScript", "TypeScript", "Python", "Java", "SQL"],
     technologies: {
         backEnd: {
