@@ -96,6 +96,6 @@ I'm always interested in collaborating on exciting projects or discussing backen
 
 ---
 
-⭐️ From [Sarvesh Patil](https://github.com/sarveshpatil)
+
 
 </div>
