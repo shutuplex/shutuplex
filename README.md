@@ -64,7 +64,7 @@ I'm a passionate backend developer with expertise in building high-performance A
 
 ---
 
-## 💼 What I Do
+## What I Do
 
 ```javascript
 let lex = {
@@ -86,7 +86,7 @@ let lex = {
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect 🦾
 
 I'm always interested in collaborating on exciting projects or discussing backend architecture and best practices. Feel free to reach out!
 
