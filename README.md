@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sarvesh Patil
+# Hi, Im Sarvesh Patil (Haru)
 
 <div align="center">
   
