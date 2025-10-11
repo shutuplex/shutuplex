@@ -67,7 +67,7 @@ I'm a passionate backend developer with expertise in building high-performance A
 ## 💼 What I Do
 
 ```javascript
-let Lex = {
+let lex = {
     code: ["JavaScript", "TypeScript", "Python", "Java", "SQL"],
     technologies: {
         backEnd: {
