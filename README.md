@@ -3,6 +3,8 @@
 <div align="center">
   <img src="https://files.catbox.moe/4yz9ob.gif" alt="LEXSNIP Logo" width="100%" />
   <br />
+
+
 ### Backend Developer | MERN Stack Enthusiast | Python Developer
 
 
