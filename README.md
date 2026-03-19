@@ -1,7 +1,8 @@
 # Hi, Im Sarvesh Patil (lex)
 
 <div align="center">
-  
+  <img src="https://files.catbox.moe/s88jj1.gif" alt="LEXSNIP Logo" width="100%" />
+  <br />
 ### Backend Developer | MERN Stack Enthusiast | Python Developer
 
 
