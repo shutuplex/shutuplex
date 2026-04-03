@@ -91,13 +91,3 @@ let lex = {
 ##  Let's Connect 🦾
 
 I'm always interested in collaborating on exciting projects or discussing backend architecture and best practices. Feel free to reach out!
-
-<div align="center">
-
-**"If privacy is outlawed,only outlaws will have privacy" – Phil Zimmermann**
-
----
-
-
-
-</div>
