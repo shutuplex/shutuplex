@@ -1,7 +1,7 @@
 # Hi, Im Sarvesh Patil (lex)
 
 <div align="center">
-  <img src="https://files.catbox.moe/xvayos.gif" alt="LEXS Logo" width="100%" />
+  <img src="https://files.catbox.moe/tqwgih.gif" alt="LEX Logo" width="100%" />
   <br />
 
 
